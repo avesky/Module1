@@ -16,3 +16,6 @@ item = 'Snakes'
 size = 10.7
 # setting constant variable
 PRICE = 3.50
+
+# printing the price of snakes
+print(PRICE)
