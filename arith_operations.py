@@ -1,11 +1,9 @@
 """
-Program: variable.py
+Program: arith_operations.py
 Author: Andy Volesky
-Last date modified: 08/29/2021
+Last date modified: 08/30/2021
 
-The purpose of this program Write a small program that declares 3 variables
-quantity (integer), item (string) and size (float-point number).
-Set them to your favorite numbers and a random item.
+The purpose of this program: Perform various arithmetic operations.
 """
 # Addition
 add = 7+2
